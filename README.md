@@ -1,5 +1,5 @@
 # NJGCG
-The source code and input data of GRMEC-SC.
+The source code and input data of NJGCG.
 
 Usage
 njgcg.m: The main file to run the model.
